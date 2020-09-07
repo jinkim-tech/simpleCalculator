@@ -54,8 +54,9 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CalculatorEngineTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CalculatorEngineTests.cs" />
+    <Compile Include="InputConverterTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
